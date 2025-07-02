@@ -21,7 +21,6 @@ quelqu'un a un job, est voyageur ou musicein u sportif,
 
 For users to access their "digital ID", they use a digital method (presumably, you mean digital authentication or interaction).
 
-Cette personne possède de nombreux éléments (expériences, objets, identités, photos, etc.), mais elle ne peut pas tout publier dans ce projet.
 
 
 Non publiable dans ce repository :
