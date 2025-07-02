@@ -1,4 +1,4 @@
-- digital ids 
+- take part in the experience
 - :iphone: :standing_woman: :iphone: :standing_man:
 - - :iphone: :standing_woman: :iphone: :standing_man:
 - hey
@@ -20,10 +20,4 @@ CSS-drawn iPhone overlay around the photo for unique visual appeal
 quelqu'un a un job, est voyageur ou musicein u sportif,
 
 For users to access their "digital ID", they use a digital method (presumably, you mean digital authentication or interaction).
-
-
-
-Non publiable dans ce repository :
-
-Publication ou partage d’informations personnelles sensibles ou de situations précises évoquées ci-dessus.
-
+- take part in the experience
